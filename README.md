@@ -19,7 +19,7 @@ Ensure you have Python 3 installed on your system.
 1. Clone the Repository.
 
 ```
-git clone
+git clone https://github.com/Rao-Pranava/PassGenX.git
 cd PassGenX
 ```
 3. Run the Help optoin of the Tool.
